@@ -1,0 +1,4 @@
+hi, this is a string
+ xXx
+hello
+2
